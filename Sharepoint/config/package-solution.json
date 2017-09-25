@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "test-client-side-solution",
+    "id": "3cb0d241-d491-4322-a11f-92fbb7bfd82a",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/test.sppkg"
+  }
+}

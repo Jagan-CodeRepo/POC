@@ -1,0 +1,17 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/helloWorld/HelloWorldWebPart.js",
+      "manifest": "./src/webparts/helloWorld/HelloWorldWebPart.manifest.json",
+      "outputPath": "./dist/hello-world.bundle.js"
+    }
+  ],
+  "externals": {
+    "jsChart":"./node_modules/chart.js/dist/Chart.bundle.min.js",
+    "angularjsChart":"./node_modules/angular-chart.js/dist/angular-chart.min.js"
+    
+  },
+  "localizedResources": {
+    "helloWorldStrings": "webparts/helloWorld/loc/{locale}.js"
+  }
+}
